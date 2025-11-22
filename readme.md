@@ -13,8 +13,10 @@ A running log of books I'm learning to expand my knowledge......
 <!-- | []() | `/18` ⬜️ | -->
 
 ## Investing
+|Resource|Progress|
+|---|---|
 | [Benhamin Graham: The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) | `/20` ⬜️ |
-| [Peter D. Kaufman: Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018) | `/20` ⬜️ |
+| [Peter D. Kaufman: Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018) | `/4` ⬜️ |
 <!-- | []() | `/18` ⬜️ | -->
 
 ## Philosophy
